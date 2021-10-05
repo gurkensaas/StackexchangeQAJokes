@@ -1,2 +1,1 @@
-# StackexchangeQAJokes
-THIS IS FOR ENTERTAINMENT PURPOSES ONLY.
+This is a series of Names where I added a `QA` in the Name somewhere like in `Arqade`. Please do not add this to SE.
